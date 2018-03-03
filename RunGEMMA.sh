@@ -2,7 +2,7 @@
 
 #Este script es para correr gemma, el analisis de GWAS con el modelo
 # de una y dos caracteristicas por individuo. Usando LMM y mvLMM.
-#Estas indicaciones etan en el manual de GEMMA (http://www.xzlab.org/software.html)
+#Estas indicaciones estan en el manual de GEMMA (http://www.xzlab.org/software.html)
 
 #1ro) para crear la matriz de parentesco: 
 #BIMBAM file (porque tambien tiene la opcion de usar archivos PLINK (.ped y .map))
